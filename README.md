@@ -3,9 +3,7 @@ Análisis de datos con GraphFrames y PySpark
 
 Plataforma
 ----------
-Databricks 
-- [Community Edition](https://community.cloud.databricks.com/login.html)
-- Runtime Version 8.1
+- Databricks: [Community Edition](https://community.cloud.databricks.com/login.html)
 
 Dataset
 -------
